@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/jhr/static/css/main.f53b93b1.chunk.css",
+    "main.js": "/jhr/static/js/main.c9c697a1.chunk.js",
+    "main.js.map": "/jhr/static/js/main.c9c697a1.chunk.js.map",
+    "runtime-main.js": "/jhr/static/js/runtime-main.d8eb6818.js",
+    "runtime-main.js.map": "/jhr/static/js/runtime-main.d8eb6818.js.map",
+    "static/js/2.de9bbae3.chunk.js": "/jhr/static/js/2.de9bbae3.chunk.js",
+    "static/js/2.de9bbae3.chunk.js.map": "/jhr/static/js/2.de9bbae3.chunk.js.map",
+    "index.html": "/jhr/index.html",
+    "static/css/main.f53b93b1.chunk.css.map": "/jhr/static/css/main.f53b93b1.chunk.css.map",
+    "static/js/2.de9bbae3.chunk.js.LICENSE.txt": "/jhr/static/js/2.de9bbae3.chunk.js.LICENSE.txt",
+    "static/js/main.c9c697a1.chunk.js.LICENSE.txt": "/jhr/static/js/main.c9c697a1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/jhr/static/media/oneelementandnotbutterfly.84f14591.jpg",
+    "static/media/Background_copy_4.31ee9f24.png": "/jhr/static/media/Background_copy_4.31ee9f24.png",
+    "static/media/Background_copy_5.0c72baea.png": "/jhr/static/media/Background_copy_5.0c72baea.png",
+    "static/media/dribbble-logo.50c97fd0.png": "/jhr/static/media/dribbble-logo.50c97fd0.png",
+    "static/media/icons8-adobe-photoshop-480.ea7046fa.png": "/jhr/static/media/icons8-adobe-photoshop-480.ea7046fa.png",
+    "static/media/icons8-adobe-xd-480.a4e69668.png": "/jhr/static/media/icons8-adobe-xd-480.a4e69668.png",
+    "static/media/icons8-c-programming-240.03589f45.png": "/jhr/static/media/icons8-c-programming-240.03589f45.png",
+    "static/media/icons8-express-480.b701b8bc.png": "/jhr/static/media/icons8-express-480.b701b8bc.png",
+    "static/media/icons8-figma-480.738add67.png": "/jhr/static/media/icons8-figma-480.738add67.png",
+    "static/media/icons8-github-500.636c8b38.png": "/jhr/static/media/icons8-github-500.636c8b38.png",
+    "static/media/icons8-google-firebase-console-480.dc1c7413.png": "/jhr/static/media/icons8-google-firebase-console-480.dc1c7413.png",
+    "static/media/icons8-html-5-480.be50d456.png": "/jhr/static/media/icons8-html-5-480.be50d456.png",
+    "static/media/icons8-mongodb-480.4d1763a2.png": "/jhr/static/media/icons8-mongodb-480.4d1763a2.png",
+    "static/media/icons8-my-sql-240.54c116b4.png": "/jhr/static/media/icons8-my-sql-240.54c116b4.png",
+    "static/media/icons8-python-480.9c47735e.png": "/jhr/static/media/icons8-python-480.9c47735e.png",
+    "static/media/icons8-react-480.5e8bd3b2.png": "/jhr/static/media/icons8-react-480.5e8bd3b2.png",
+    "static/media/icons8-react-500.820368f0.png": "/jhr/static/media/icons8-react-500.820368f0.png",
+    "static/media/lighting.c82f41c6.png": "/jhr/static/media/lighting.c82f41c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8eb6818.js",
+    "static/js/2.de9bbae3.chunk.js",
+    "static/css/main.f53b93b1.chunk.css",
+    "static/js/main.c9c697a1.chunk.js"
+  ]
+}
